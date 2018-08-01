@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+
+<html>
+
+  <head><title>Autographs!</title>
+  <img src= "IMG_2897 (1).jpg" alt= "NOt working" width="400" height="120">
+
+  <center>
+      <style>
+    h1 {
+        text-shadow: 2px 2px 8px #FF1493;
+    }
+    </style>
+    </head>
+    <body>
+    <h1 style="font-family:'Comic Sans Ms';font-size:60px;"Right Click An Image To Save!</h1></h1>
+    </head>
+    </center>
+
+    <center>
+      <style>
+    h1 {
+        text-shadow: 2px 2px 8px #FF1493;
+    }
+    </style>
+    </head>
+    <body>
+    <h1 style="font-family:'Comic Sans Ms';font-size:60px;">Right Click an Image To Save!</h1></h1>
+    </head>
+    </center>
+
+
+<center>
+<body>
+  <center>
+    <style>
+  h3 {
+      text-shadow: 2px 2px 8px ##00FFFF;
+  }
+  </style>
+
+  <div class="row">
+    <div class="column">
+      <img src="miranda.jpg" alt="miranda autograph" style="width:40%">
+    </div>
+    <div class="column">
+      <img src="sam.jpg" alt="sam autograph" style="width:40%">
+    </div>
+    <div class="column">
+      <img src="fred.jpg" alt="freddie autograph" style="width:40%">
+    </div>
+  </div>
+
+    <style>
+    body{
+              background-image:  url("float.gif");
