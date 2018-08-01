@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+* {
+    box-sizing: border-box;
+}
+
+.column {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+}
+
+.row::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+</style>
+</head>
+<body>
+
+  <center>
+    <style>
+  h1 {
+      text-shadow: 2px 2px 8px #FF1493;
+  }
+  </style>
+  </head>
+  <body>
+  <h1 style="font-family:'Comic Sans Ms';font-size:60px;">I LOVE these pics XD!</h1></h1>
+  </head>
+  </center>
+
+\\
+<div class="row">
+  <div class="column">
+    <img src="set1.jpg" alt="set1.jpg" style="width:100%">
+
+    <img src="set2.jpg" alt="set2.jpg" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="pic2.png" alt="pic2.png" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="pic3.jpg" alt="pic3.jpg" style="width:100%">
+
+    <img src="pic4.jpg" alt="pic4.jpg" style="width:100%">
+    </div>
+
+  <div class="column">
+  <img src="pic5.gif" alt="pic5.gif" style="width:100%">
+  </div>
+
+  <div class="column">
+  <img src="pic6.jpg" alt="pic6.jpg" style="width:100%">
+  </div>
+
+  <div class="column">
+  <img src="pic7.jpg" alt="pic7.jpg" style="width:100%">
+  </div>
+
+  <div class="column">
+  <img src="pic8.jpg" alt="pic8.jpg" style="width:100%">
+  </div>
+
+  <div class="column">
+  <img src="pic9.jpg" alt="pic9.jpg" style="width:100%">
+  </div>
+
+  <div class="column">
+  <img src="pic99.jpg" alt="pic99.jpg" style="width:100%">
+  </div>
+
+</div>
+
+</body>
+</html>
+<style>
+body{
+          background-image:  url("float.gif");
