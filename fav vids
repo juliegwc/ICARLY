@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+
+<html>
+
+  <head><title>FAV VIDZ!</title>
+  <img src= "IMG_2897 (1).jpg" alt= "NOt working" width="400" height="120">
+
+  <center>
+      <style>
+    h1 {
+        text-shadow: 2px 2px 8px #00FFFF;
+    }
+    </style>
+    </head>
+    <body>
+    <h1 style="font-family:'Comic Sans Ms';font-size:60px;"ROFL THESE R SO FUNNY XD!!</h1></h1>
+    </head>
+    </center>
+
+    <center>
+      <style>
+    h1 {
+        text-shadow: 2px 2px 8px #00FFFF;
+    }
+    </style>
+    </head>
+    <body>
+    <h1 style="font-family:'Comic Sans Ms';font-size:60px;">ROFL THESE R SO FUNNY XD!!</h1></h1>
+    </head>
+    </center>
+
+
+<center>
+<body>
+  <center>
+    <style>
+  h3 {
+      text-shadow: 2px 2px 8px #00FFFF;
+  }
+  </style>
+
+  <div class="row">
+    <div class="column">
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/CWeD5CKBfps" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    </div>
+    <div class="column">
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/B10oMXSqY5k" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    </div>
+    <div class="column">
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/UIwA5UGmtDM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    </div>
+    <div class="column">
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/xp0S8IZbIU0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    </div>
+  </div>
+
+    <style>
+    body{
+              background-image:  url("float.gif");
